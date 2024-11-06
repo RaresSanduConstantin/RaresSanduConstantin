@@ -8,7 +8,7 @@ I'm a web developer with around 5 years of experience in building web applicatio
 
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [MyWebsite](http://rares-sandu.vercel.app/)
-* ✉️  You can contact me at [Here](http://rares-sandu.vercel.app/contact)
+* ✉️  You can contact me [Here](http://rares-sandu.vercel.app/contact)
 
 ### Skills
 
